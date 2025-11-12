@@ -3,7 +3,7 @@
 # COMP 163 - Project 2: Character Abilities Showcase
 
 ## 🎯 Project Overview
-
+ 
 Build a simple character system that demonstrates mastery of object-oriented programming fundamentals: inheritance, method overriding, polymorphism, and composition. This project focuses on core OOP concepts without the complexity of a full game system.
 
 ## 📋 Getting Started
